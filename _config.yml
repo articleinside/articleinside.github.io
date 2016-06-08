@@ -3,7 +3,7 @@
 #highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 10
 language: 'kr-KR'
 
 # Website info
@@ -13,7 +13,7 @@ description: "소식을 전합니다."
 # Author's info
 author: 'Article Inside'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: Article Inside
 bio: ''
 location: 'Seoul, Korea'
 url: ''
